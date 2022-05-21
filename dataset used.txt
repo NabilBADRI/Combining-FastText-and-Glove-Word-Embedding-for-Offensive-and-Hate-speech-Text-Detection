@@ -1,0 +1,5 @@
+# MyFirstProjet
+Python projet with ML and DL
+In this project, we used two english dataset, these two dataset are in this two link below:
+The first dataset is : OLID Dataset : https://scholar.harvard.edu/malmasi/olid
+The second dataset is: https://github.com/ENCASEH2020/hatespeech-twitter
